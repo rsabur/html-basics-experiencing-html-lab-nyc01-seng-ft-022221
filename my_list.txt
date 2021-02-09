@@ -1,0 +1,5 @@
+Shirts
+Pants
+Sweaters
+Underwear
+Socks
